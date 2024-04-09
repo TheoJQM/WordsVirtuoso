@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Words Virtuoso/task/build/
+/Words Virtuoso/task/out/
+/Words Virtuoso/task/out/production/classes/
